@@ -6,8 +6,8 @@ A modern, Persian (Jalali) date picker for React applications with full Tailwind
 
 <div style="flex: 1">
 <div style="display:flex;flex-basis:30%;gap:20px">
-<img src="https://freecyberhawk.github.io/noa_jalali_datepicker/images/light_preview.png" alt="Noa Jalali Datepicker Screenshot" width="300" height="350">
-<img src="https://freecyberhawk.github.io/noa_jalali_datepicker/images/dark_preview.png" alt="Noa Jalali Datepicker Screenshot" width="300" height="350">
+<img src="https://cyberhuginn.github.io/noa_jalali_datepicker/images/light_preview.png" alt="Noa Jalali Datepicker Screenshot" width="300" height="350">
+<img src="https://cyberhuginn.github.io/noa_jalali_datepicker/images/dark_preview.png" alt="Noa Jalali Datepicker Screenshot" width="300" height="350">
 </div>
 </div>
 
